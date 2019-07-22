@@ -3,7 +3,6 @@
 =======
 
 # Xenko Community Projects
-=======
 
 Welcome to the Xenko-community-projects repository!
 
@@ -11,17 +10,12 @@ This repository provides a consolidated listing of user-created, community-drive
 
 
 ## UI
-=======
 
 ## Rendering
-=======
 
 ## Physics
-=======
 
 ## Terrain
-=======
 
 ## Networking
-=======
 
