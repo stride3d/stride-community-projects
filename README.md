@@ -13,11 +13,11 @@ This repository provides a consolidated list of user-created, community-driven p
 
 ## Rendering
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Various Procedural Renderings
-* [ShaderExplorerForXenko](https://github.com/SvenEV/Shader-Explorer-For-Xenko)
+* [ShaderExplorerForXenko](https://github.com/tebjan/Xenko.ShaderExplorer/releases)
 * [FlowingWater](https://github.com/TomGroner/XenkoFlowingWater)
 * [Voxelization](https://github.com/WhyPenguins/XenkoVoxelGI)
 * [XenkoVoxelExample](https://github.com/jason-wilmans/XenkoVoxelExample)
-* [CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
+* [CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature) - Render custom shaders correctly into a scene
 
 ## Physics
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
@@ -47,6 +47,7 @@ This repository provides a consolidated list of user-created, community-driven p
 * [ClientServerSample](https://github.com/xen2/Xenko.ClientServerSample) - Headless server
 
 ## Integration/Tools
+* [XenkoVisualStudioTemplates](https://github.com/tebjan/XenkoTemplates/releases) - Script and shader templates for Visual Studio
 * [BlenderToXenkoAnimationSeparater](https://github.com/GutterLab/BlenderToXenkoAnimationSeparator)
 
 ## Games
