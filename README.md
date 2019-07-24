@@ -14,12 +14,12 @@ This repository provides a consolidated list of user-created, community-driven p
 ## UI
 
 ## Rendering
-*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Various Procedural Renderings
-*[ShaderExplorerForXenko](https://github.com/SvenEV/Shader-Explorer-For-Xenko)
-*[FlowingWater](https://github.com/TomGroner/XenkoFlowingWater)
-*[Voxelization](https://github.com/WhyPenguins/XenkoVoxelGI)
-*[XenkoVoxelExample](https://github.com/jason-wilmans/XenkoVoxelExample)
-*[CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
+* [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Various Procedural Renderings
+* [ShaderExplorerForXenko](https://github.com/SvenEV/Shader-Explorer-For-Xenko)
+* [FlowingWater](https://github.com/TomGroner/XenkoFlowingWater)
+* [Voxelization](https://github.com/WhyPenguins/XenkoVoxelGI)
+* [XenkoVoxelExample](https://github.com/jason-wilmans/XenkoVoxelExample)
+* [CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
 
 ## Physics
 *[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
