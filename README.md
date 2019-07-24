@@ -11,8 +11,6 @@ This repository provides a consolidated list of user-created, community-driven p
 ## Video Tutorials
 * [Xenko Basics](https://www.youtube.com/watch?v=JO9XusgPi8w&list=PLM8hj-JyVnYr-usNqX5aeXG0IwTY9FVge)
 
-## UI
-
 ## Rendering
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Various Procedural Renderings
 * [ShaderExplorerForXenko](https://github.com/SvenEV/Shader-Explorer-For-Xenko)
@@ -37,6 +35,8 @@ This repository provides a consolidated list of user-created, community-driven p
 
 ## Triggers
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Trigger Scene
+
+## UI
 
 ## Code Only
 * [CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
