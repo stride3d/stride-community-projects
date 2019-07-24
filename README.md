@@ -9,18 +9,50 @@ Welcome to the Xenko-community-projects repository!
 This repository provides a consolidated list of user-created, community-driven projects for reference by those seeking to learn, work with, or integrate the Xenko game engine. If you'd like to add your project, please submit a PR with necessary updates to the README.md and details of what your project is and what examples it provides.
 
 ## Video Tutorials
-* [Xenko Basics](https://www.youtube.com/watch?v=JO9XusgPi8w&list=PLM8hj-JyVnYr-usNqX5aeXG0IwTY9FVge)
+*[Xenko Basics](https://www.youtube.com/watch?v=JO9XusgPi8w&list=PLM8hj-JyVnYr-usNqX5aeXG0IwTY9FVge)
 
 ## UI
 
 ## Rendering
+*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Various Procedural Renderings
+*[ShaderExplorerForXenko](https://github.com/SvenEV/Shader-Explorer-For-Xenko)
+*[FlowingWater](https://github.com/TomGroner/XenkoFlowingWater)
+*[Voxelization](https://github.com/WhyPenguins/XenkoVoxelGI)
+*[XenkoVoxelExample](https://github.com/jason-wilmans/XenkoVoxelExample)
+*[CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
 
 ## Physics
+*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
+*[XenkoRotatingSun](https://github.com/SuavePirate/Xenko.RotatingSun)
 
 ## Terrain
+*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - SubdividedPlaneMesh
+*[XenkoTerrain](https://github.com/TomGroner/XenkoTerrain)
+
+## Camera
+*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Split Screen
+
+## VR
+*[Xeno-VR-Game](https://github.com/fdrobidoux/Xenko-VR-Game)
+
+## Triggers
+*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Trigger Scene
+
+## Code Only
+*[CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
+*[XenkoWindowFromCode](https://github.com/microdee/xenko-window-from-code)
+*[XenkoCodeOnlyGame](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
 
 ## Networking
+*[ClientServerSample](https://github.com/xen2/Xenko.ClientServerSample) - Headless server
 
-## Game-Types
+## Integration/Tools
+*[BlenderToXenkoAnimationSeparater](https://github.com/GutterLab/BlenderToXenkoAnimationSeparator)
 
-## Integration
+## Games
+*[Starbreach](https://github.com/xenko3d/Starbreach) - First/Third Person Shooter
+*[BallsOfSteel](https://github.com/Kryptos-FR/BallsOfSteel)
+*[XenkoSpaceShooter](https://github.com/jayrulez/XenkoSpaceShooter)
+*[XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
+*[TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
+
