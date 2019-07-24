@@ -22,37 +22,37 @@ This repository provides a consolidated list of user-created, community-driven p
 * [CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
 
 ## Physics
-*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
-*[XenkoRotatingSun](https://github.com/SuavePirate/Xenko.RotatingSun)
+* [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
+* [XenkoRotatingSun](https://github.com/SuavePirate/Xenko.RotatingSun)
 
 ## Terrain
-*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - SubdividedPlaneMesh
-*[XenkoTerrain](https://github.com/TomGroner/XenkoTerrain)
+* [XenkoByteSized](https://github.com/profan/XenkoByteSized) - SubdividedPlaneMesh
+* [XenkoTerrain](https://github.com/TomGroner/XenkoTerrain)
 
 ## Camera
-*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Split Screen
+* [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Split Screen
 
 ## VR
-*[Xeno-VR-Game](https://github.com/fdrobidoux/Xenko-VR-Game)
+* [Xeno-VR-Game](https://github.com/fdrobidoux/Xenko-VR-Game)
 
 ## Triggers
-*[XenkoByteSized](https://github.com/profan/XenkoByteSized) - Trigger Scene
+* [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Trigger Scene
 
 ## Code Only
-*[CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
-*[XenkoWindowFromCode](https://github.com/microdee/xenko-window-from-code)
-*[XenkoCodeOnlyGame](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
+* [CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
+* [XenkoWindowFromCode](https://github.com/microdee/xenko-window-from-code)
+* [XenkoCodeOnlyGame](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
 
 ## Networking
-*[ClientServerSample](https://github.com/xen2/Xenko.ClientServerSample) - Headless server
+* [ClientServerSample](https://github.com/xen2/Xenko.ClientServerSample) - Headless server
 
 ## Integration/Tools
-*[BlenderToXenkoAnimationSeparater](https://github.com/GutterLab/BlenderToXenkoAnimationSeparator)
+* [BlenderToXenkoAnimationSeparater](https://github.com/GutterLab/BlenderToXenkoAnimationSeparator)
 
 ## Games
-*[Starbreach](https://github.com/xenko3d/Starbreach) - First/Third Person Shooter
-*[BallsOfSteel](https://github.com/Kryptos-FR/BallsOfSteel)
-*[XenkoSpaceShooter](https://github.com/jayrulez/XenkoSpaceShooter)
-*[XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
-*[TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
+* [Starbreach](https://github.com/xenko3d/Starbreach) - First/Third Person Shooter
+* [BallsOfSteel](https://github.com/Kryptos-FR/BallsOfSteel)
+* [XenkoSpaceShooter](https://github.com/jayrulez/XenkoSpaceShooter)
+* [XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
+* [TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
 
