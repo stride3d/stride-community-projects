@@ -37,6 +37,7 @@ This repository provides a consolidated list of user-created, community-driven p
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Trigger Scene
 
 ## UI
+* [XenkoCommunity.ImGuiDebug](https://github.com/Eideren/XenkoCommunity.ImGuiDebug)
 
 ## Code Only
 * [CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
