@@ -42,7 +42,6 @@ This repository provides a consolidated list of user-created, community-driven p
 ## Code Only
 * [CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
 * [XenkoWindowFromCode](https://github.com/microdee/xenko-window-from-code)
-* [XenkoCodeOnlyGame](https://github.com/tebjan/Xenko.CustomRootRenderFeature)
 
 ## Networking
 * [ClientServerSample](https://github.com/xen2/Xenko.ClientServerSample) - Headless server
