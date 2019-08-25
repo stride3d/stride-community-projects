@@ -18,6 +18,7 @@ This repository provides a consolidated list of user-created, community-driven p
 * [Voxelization](https://github.com/WhyPenguins/XenkoVoxelGI)
 * [XenkoVoxelExample](https://github.com/jason-wilmans/XenkoVoxelExample)
 * [CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature) - Render custom shaders correctly into a scene
+* [XenkoFogOfWarShader](Xenko FogOfWar Moba/Platformer) - Moba/Platformer FogOfWar Shader
 
 ## Physics
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
