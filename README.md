@@ -56,4 +56,5 @@ This repository provides a consolidated list of user-created, community-driven p
 * [XenkoSpaceShooter](https://github.com/jayrulez/XenkoSpaceShooter)
 * [XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
 * [TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
+* [Harrowing Flight - Student Game Project](https://forums.xenko.com/t/harrowing-flight-student-game-project/1823)
 
