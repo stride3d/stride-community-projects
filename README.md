@@ -58,4 +58,5 @@ This repository provides a consolidated list of user-created, community-driven p
 * [XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
 * [TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
 * [Harrowing Flight - Student Game Project](https://forums.xenko.com/t/harrowing-flight-student-game-project/1823)
+* [Glasses - Global Game Jam Entry](https://globalgamejam.org/2019/games/glasses)
 
