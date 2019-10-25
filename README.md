@@ -29,6 +29,7 @@ This repository provides a consolidated list of user-created, community-driven p
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - SubdividedPlaneMesh
 * [XenkoTerrain](https://github.com/TomGroner/XenkoTerrain)
 * [XenkoMCTerrain](https://github.com/SilentCLD/XenkoMCTerrain) - Marching Cubes Terrain
+* [XenkoHMTerrain](https://github.com/SilentCLD/XenkoHMTerrain) - Height Map Terrain
 
 ## Camera
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Split Screen
