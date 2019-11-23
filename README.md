@@ -19,7 +19,8 @@ This repository provides a consolidated list of user-created, community-driven p
 * [XenkoVoxelExample](https://github.com/jason-wilmans/XenkoVoxelExample)
 * [CustomRootRenderer](https://github.com/tebjan/Xenko.CustomRootRenderFeature) - Render custom shaders correctly into a scene
 * [XenkoFogOfWarShader](https://github.com/devjarmo/XenkoFogOfWarShader) - Moba/Platformer FogOfWar Shader
-* [XenkoFogOfWarPlus](https://github.com/devjarmo/XenkoFogOfWarPlus) - Moba/Platformer FogOfWar System (no LoS)
+* [XenkoFogOfWarPlus](https://github.com/devjarmo/XenkoFogOfWarPlus) - Moba/Platformer/RTS FogOfWar System (no LoS)
+* [XenkoFogOfWarDirectional](https://github.com/devjarmo/XenkoFogOfWarDirectional) - Moba/Platformer FogOfWar System Directional
 
 ## Physics
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
