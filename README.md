@@ -21,6 +21,10 @@ This repository provides a consolidated list of user-created, community-driven p
 * [XenkoFogOfWarShader](https://github.com/devjarmo/XenkoFogOfWarShader) - Moba/Platformer FogOfWar Shader
 * [XenkoFogOfWarPlus](https://github.com/devjarmo/XenkoFogOfWarPlus) - Moba/Platformer/RTS FogOfWar System (no LoS)
 * [XenkoFogOfWarDirectional](https://github.com/devjarmo/XenkoFogOfWarDirectional) - Moba/Platformer FogOfWar System Directional
+* [Entity Processor Example](https://github.com/Basewq/XenkoProofOfConcepts)
+* [Object Info Render Target Example](https://github.com/Basewq/XenkoProofOfConcepts) - Renders object information onto a render target
+* [Screen Space Decal Example](https://github.com/Basewq/XenkoProofOfConcepts) - Screen space projected decal system
+* [Screen Space Decal Root Renderer Example](https://github.com/Basewq/XenkoProofOfConcepts) - Screen space projected decal system using RootRenderFeature
 
 ## Physics
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Vehicle Scene
