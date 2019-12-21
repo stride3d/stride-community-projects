@@ -39,9 +39,6 @@ This repository provides a consolidated list of user-created, community-driven p
 ## Camera
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Split Screen
 
-## VR
-* [Xeno-VR-Game](https://github.com/fdrobidoux/Xenko-VR-Game)
-
 ## Triggers
 * [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Trigger Scene
 
