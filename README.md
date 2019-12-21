@@ -52,6 +52,9 @@ This repository provides a consolidated list of user-created, community-driven p
 ## Networking
 * [ClientServerSample](https://github.com/xen2/Xenko.ClientServerSample) - Headless server
 
+## Assets
+* [Loading additional asset databases](https://gist.github.com/aikixd/b0decb0cfc28bbdacb46d953691f76fd)
+
 ## Integration/Tools
 * [XenkoVisualStudioTemplates](https://github.com/tebjan/XenkoTemplates/releases) - Script and shader templates for Visual Studio
 * [BlenderToXenkoAnimationSeparater](https://github.com/GutterLab/BlenderToXenkoAnimationSeparator)
