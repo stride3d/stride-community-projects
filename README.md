@@ -61,10 +61,13 @@ This repository provides a consolidated list of user-created, community-driven p
 
 ## Games
 * [Starbreach](https://github.com/xenko3d/Starbreach) - First/Third Person Shooter
+* [Rollerghoaster](https://aggror.com/blog/video-rollerghoaster-0.0.2-demo) - Race against online and local ghosts on procedural tracks
+* [FPS Infinite](https://store.steampowered.com/app/1256380/FPS_Infinite/) - Procedural FPS with VR support
+* [Once Upon A Lan](https://youtu.be/x7kVx0rzZN4) - Isometric arena brawler
 * [BallsOfSteel](https://github.com/Kryptos-FR/BallsOfSteel)
 * [XenkoSpaceShooter](https://github.com/jayrulez/XenkoSpaceShooter)
 * [XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
 * [TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
-* [Harrowing Flight - Student Game Project](https://forums.xenko.com/t/harrowing-flight-student-game-project/1823)
-* [Glasses - Global Game Jam Entry](https://globalgamejam.org/2019/games/glasses)
+* [Harrowing Flight](https://forums.xenko.com/t/harrowing-flight-student-game-project/1823) - Student Game Project
+* [Glasses](https://globalgamejam.org/2019/games/glasses) - Global Game Jam Entry
 
