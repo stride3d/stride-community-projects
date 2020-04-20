@@ -1,10 +1,10 @@
 
-![Xenko](https://xenko.com/images/external/xenko-logo-side.png)
+![Stride](https://github.com/stride3d/stride/blob/master/sources/data/images/Logo/stride-logo-readme.png)
 =======
 
-# Xenko Community Projects
+# Stride (fka Xenko) Community Projects
 
-Welcome to the Xenko-community-projects repository!
+Welcome to the Stride-community-projects repository!
 
 This repository provides a consolidated list of user-created, community-driven projects for reference by those seeking to learn, work with, or integrate the Xenko game engine. These projects are in-addition to fantastic examples already included with the engine! If you'd like to add your project, please submit a PR with necessary updates to the README and details of what your project is and what examples it provides -or- ask around on the official [discord](https://discord.gg/bNYVKPC).
 
