@@ -44,6 +44,7 @@ This repository provides a consolidated list of user-created, community-driven p
 
 ## UI
 * [XenkoCommunity.ImGuiDebug](https://github.com/Eideren/XenkoCommunity.ImGuiDebug)
+* [Using Myra UI in Stride Tutorial](https://github.com/rds1983/Myra/wiki/Using-Myra-in-Stride-Engine-Tutorial)
 
 ## Code Only
 * [CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample)
